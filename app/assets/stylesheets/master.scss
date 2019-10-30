@@ -26,3 +26,10 @@ navbar {
   background: image_url('dark-honeycomb.png'); 
   box-shadow: 1px 2px 4px #DDD412; 
 }
+
+.navbar-inverse .navbar-brand {
+  color: #9320D6; 
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.3px;
+}
